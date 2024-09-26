@@ -49,6 +49,10 @@
   color: black;
 }
 
+.mobile-message{
+  display: none;
+}
+
 /* Media query for mobile view */
 @media (max-width: 768px) {
   .container {
