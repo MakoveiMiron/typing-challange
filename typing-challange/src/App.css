@@ -55,7 +55,7 @@
 
 /* Media query for mobile view */
 @media (max-width: 768px) {
-  body{
+  :root{
     background-color: #2c2c2c;
   }
   .container {
@@ -72,5 +72,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #2c2c2c;
   }
 }
